@@ -65,4 +65,4 @@ TUTORIAL DE USO DO PROJETO
    - Caso falte alguma informação, revise seu cadastro no Firebase.
    - Verifique se todas as dependências foram instaladas.
    - Veja erros no terminal ou no console do navegador.
-*/
+
