@@ -1,6 +1,13 @@
 # Site-de-Receitas
 Projeto de um site de receitas utilizando React+vite+typescript
 
+Membros e componentes que cada um desenvolveu:
+Matheus Afonso Tavares: RecipeList.tsx e SimpleCard.tsx
+Fagner Abreu Borges: Navbar.tsx e RecipeCard.tsx
+Matheus Assis Borges Gomes Campelo: SearchBar.tsx e Carousel.tsx
+Thallita Evelyn Silva Sousa: Button.tsx e Title.tsx
+Wendel Borges da Silva Vieira: Footer.tsx e Label.tsx
+
 TUTORIAL DE INSTALAÇÃO DO PROJETO
 
 1) Baixe ou clone o repositório do GitHub:
